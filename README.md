@@ -1,5 +1,4 @@
-# Picotar
-Raspberry Pi Pico W controlled guitar
+# 'Picotar' - the Raspberry Pi Pico W Controlled Guitar
 
 This GitHub project contains all of the files needed to build your own 'Picotar'
 Within this project, two example codes are included alongside a digital copy of the printed walkthrough handout as well as the PCB schematic and gerber files. Feel free to use and modify the examples in order to create your own versions, or take the Raspberry Pi Pico W and use it in an entirely different project - we would love to see what you end up creating!; share these with us by emailing nathaniel.dacombe@nottingham.ac.uk
