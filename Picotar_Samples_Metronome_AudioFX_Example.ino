@@ -26,7 +26,7 @@
 // 4. install the Raspberry Pi Pico/RP2040 boards, once completed if you go into 'Tools' --> 'Board' there should be a selection of Raspberry Pi Pico boards (use the 'Raspberry Pi Pico W' board for this project)
 
 // now for some notes about the code...
-// the 'Picotar' project utilises the Mozzi audio library by Tim Barrass
+// the 'Picotar' project utilises the Mozzi audio library by Tim Barrass. Ensure that you install v1.1.2 of the Mozzi library - v2.x will not work
 // full details, including tutorials, examples and forums are available on the Mozzi GitHub page here: https://sensorium.github.io/Mozzi/
 // the variable naming conventions using 'k' stand for 'control' and 'a' stand for 'audio'
 // comments are added throughout the code for your understanding to explain key processes or functions - if anything is unclear, feel free to ask, or search for the functions online
